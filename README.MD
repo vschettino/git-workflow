@@ -8,10 +8,13 @@ Informações sobre o Gitlab serão passadas mais tarde.
 
 Estes são os objetivos do curso
 
-
 ##Topico 2
 
 Este é o tópico 2*
 
-
 *em construção
+
+##Conclusão
+
+Esta é a conclusão do texto
+
